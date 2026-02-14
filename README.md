@@ -100,20 +100,35 @@ Instale o Cypress: npm install cypress --save-dev
 Abra a interface de testes: npx cypress open
 
 ## 🗂️ Estrutura de Pastas
+
 code
+
 Text
+
 download
+
 content_copy
+
 expand_less
+
 petshop-ifpi/
+
 ├── backend/            # API REST (Node.js)
+
 │   ├── server.js       # Ponto de entrada e rotas
+
 │   └── package.json    # Dependências do servidor
+
 ├── frontend/           # Interface do Usuário
+
 │   ├── index.html      # Estrutura e layout
+
 │   └── script.js       # Lógica e consumo de API
+
 ├── cypress/            # Testes Automatizados (E2E)
+
 │   └── e2e/            # Scripts de teste (.cy.js)
+
 └── package.json        # Dependências de QA
 
 ## Integrantes 
