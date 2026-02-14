@@ -117,10 +117,16 @@ petshop-ifpi/
 └── package.json        # Dependências de QA
 
 ## Integrantes 
+
 Ana Flávia do Nascimento Silva
+
 Gerci Maria da Silva Sales
+
 Jhenifer do Nascimento Costa
+
 Maisa Raquel de Oliveira Pereira
+
 Matheus Diolindo Lima
+
 Rodrigo Freitas Mendes
 
